@@ -278,7 +278,7 @@ h1,h2,h3,h4,h5,h6,p{
     background: rgba(255, 244, 229, 0.4);
     border-radius: 10px;
     padding: 40px 80px 40px 80px;
-    margin-bottom: 206px;
+    /* margin-bottom: 206px; */
     position: relative;
 }
 .about_rating--part h3{
